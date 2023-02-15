@@ -29,6 +29,14 @@
 ## How to run this project
 - Clone this project 
 - Hit the command 
+
+## Prerequisite
+- Java 8 or 11
+- Junit
+- Selenium
+- WebdriverManager dependencies 
+These all are must be installed.
+- 
 ## Junit Report
 
 ![Junit report](https://user-images.githubusercontent.com/78273243/218939097-6b84b506-4201-4954-b1f6-8fa65fffa30c.png)
